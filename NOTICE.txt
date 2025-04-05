@@ -1,0 +1,8 @@
+Copyright (c) 2025 Houssam Boughdadi
+
+This source code is provided for viewing purposes only. 
+You may not reproduce, modify, distribute, or use any part of this code 
+for any purpose without explicit written permission from the author.
+
+This repository is public for demonstration purposes only. 
+All rights reserved.
